@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-nanachi",
+  "version": "0.0.1-alpha.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoyudong/eslint-plugin-nanachi.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "nanachi"
+  ],
+  "author": "roy shao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaoyudong/eslint-plugin-nanachi/issues"
+  },
+  "homepage": "https://github.com/shaoyudong/eslint-plugin-nanachi#readme"
+}
