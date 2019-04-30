@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nanachi",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/shaoyudong/eslint-plugin-nanachi#readme",
   "dependencies": {
+    "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0"
   }
 }
